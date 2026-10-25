@@ -1,0 +1,1 @@
+This project demonstrates basic data analysis and Git version control.
