@@ -1,1 +1,1 @@
-This project demonstrates basic data analysis and Git version control.
+Analysis fix: added project analysis notes.
